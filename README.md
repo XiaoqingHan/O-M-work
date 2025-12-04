@@ -1,2 +1,3 @@
-# O-M-work
-BGI O&amp;M work, including monitor sources, find cromwell
+# Operation and Maintenance work at BGI
+monitor sources, find cromwell
+Backup data to the tape library 
